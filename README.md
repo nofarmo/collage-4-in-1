@@ -10,5 +10,4 @@ But I didn't find any place that prepares these many collages at once.
 My ex had an idea: write it in Python.
 And for a young computer science student it was a fun and easy challenge (some Google searches and code organization).
 
-And so this short guide was created for you, enjoy
-Write me if it was helpful :)
+And so this short guide was created for you, enjoy and write me if it was helpful :)
